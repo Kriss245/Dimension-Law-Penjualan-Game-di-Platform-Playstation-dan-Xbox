@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/aKQH3yO.png" width="350"></p>
+
 # 🌌 Dimension Law — UI/UX Design Project
 
 > Desain yang mengusung tema futuristik, antarmuka ini menghadirkan navigasi intuitif dan responsif dalam penjualan game **Dimension Law** di platform **PlayStation** maupun **Xbox**, dengan visual imersif dan tata letak yang memudahkan dalam menjelajahi konten serta melakukan pembelian.
