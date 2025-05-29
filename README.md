@@ -23,9 +23,9 @@
 
 ## 🔗 Akses Figma
 
-<p align="center"><img src="https://imgur.com/xf6XycR.png" width="350"></p>
-
 👉 [Buka di Figma](https://www.figma.com/design/pM2azayVOxnT1VCcYRJE3J/Dimension-Law_Penjualan-Game-di-Platform-Playstation-and-Xbox?node-id=0-1&t=KWgzuHlOTe6ccf8n-1)  
+
+<p align="center"><img src="https://imgur.com/xf6XycR.png" width="350"></p>
 
 ## 📦 Cara Menggunakan
 
