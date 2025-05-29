@@ -21,7 +21,7 @@
 
 ## 🔗 Akses Figma
 
-👉 [Buka di Figma]([https://www.figma.com/file/your-file-id](https://www.figma.com/design/pM2azayVOxnT1VCcYRJE3J/Dimension-Law_Penjualan-Game-di-Platform-Playstation-and-Xbox?node-id=0-1&t=KWgzuHlOTe6ccf8n-1))  
+👉 [Buka di Figma]([https://www.figma.com/design/pM2azayVOxnT1VCcYRJE3J/Dimension-Law_Penjualan-Game-di-Platform-Playstation-and-Xbox?node-id=0-1&t=KWgzuHlOTe6ccf8n-1])  
 
 ## 📦 Cara Menggunakan
 
