@@ -1,4 +1,4 @@
-<p align="center"><img src="(https://imgur.com/F5awaem.png)" width="350"></p>
+<p align="center"><img src="https://imgur.com/F5awaem.png" width="350"></p>
 
 # 🌌 Dimension Law — UI/UX Design Project
 
